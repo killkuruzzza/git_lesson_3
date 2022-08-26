@@ -26,7 +26,6 @@
 
 ✦ 1, 2, 3 … – нумерованные списки
 
-
 ---
 
 ## Клавиши и сочетания клавиш
@@ -37,8 +36,7 @@
 2. Заключите имена клавиш в HTML-теги  <kbd>  BackSpace </kbd>
 3. Используйте "+" для объединения клавиш, которые пользователь должен нажать одновременно: <kbd>  Shift </kbd> + <kbd>  Alt </kbd>
 
-
 Отображение кода:
 ```csharp
-    var students = context.Students.Where(s => s.LastName == "Davolio")
+var students = context.Students.Where(s => s.LastName == "Davolio")
 ```

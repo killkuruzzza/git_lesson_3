@@ -26,3 +26,7 @@
 
 ✦ 1, 2, 3 … – нумерованные списки
 
+Отображение код
+```csharp
+    var students = context.Students.Where(s => s.LastName == "Davolio")
+```

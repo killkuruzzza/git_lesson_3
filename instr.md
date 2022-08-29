@@ -40,3 +40,39 @@
 ```csharp
 var students = context.Students.Where(s => s.LastName == "Davolio")
 ```
+# Далее задание к семинару 3
+
+**Команды для работы с удалённым репозиторием**
+
+1. **git remote** - привязка к удалённому репозиторию с указанным URL
+   
+```
+git remote add origin https://github.com:nicothin/test.git 
+```
+2. **git push** -  отправить в удалённый репозиторий на GitHub данные своей ветки master
+```
+git push origin master 
+```
+
+3. **git pull** - влить изменения с удалённого репозитория (только указанная ветка)
+```
+git pull origin master
+```
+---
+
+# Клонирование репозитория
+
+* клонировать удаленный репозиторий в одноименную директорию 
+```
+git clone https://github.com/cyberspacedk/Git-commands.git    
+```
+
+* клонировать удаленный репозиторий в директорию «FolderName» 
+```
+git clone https://github.com/cyberspacedk/Git-commands.git FolderName 
+```
+
+* клонировать репозиторий в текущую директорию 
+```
+git clone https://github.com:nicothin/web-design.git  
+```          

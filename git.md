@@ -70,6 +70,19 @@ git bransh -d issue/12
 git checkout issue/15
 ```
 
+Также можно создать и переключиться на новую метку с применением ключа `-b`:
+
+```shell
+git checkout -n isuue/16
+```
+
+Это аналогично выполнению двух команд:
+
+```shell
+git bransh issue/16
+git checkout issue/16
+```
+
 ## merge
 
 Слияние изменений

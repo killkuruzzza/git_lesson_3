@@ -60,3 +60,5 @@ The past and how it all used to be...
 
 To add an image use following consruction
 ![Switzerland](saas-fee--2553924-4.jpg)
+
+На этом мы остановимся, но это не точка, а всего лишь многоточие, ведь git такой безграничный!

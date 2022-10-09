@@ -2,7 +2,7 @@
 ## *20.09.22*
 (новые git команды - ветки)
 ---
-![Git logo alt text](/assets/images/git_image.png "Git Logo")
+![Git logo alt text](./assets/images/git_image.png "Git Logo")
 
 ### **Начало работы с git**
 ---

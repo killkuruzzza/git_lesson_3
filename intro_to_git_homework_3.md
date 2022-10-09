@@ -1,6 +1,6 @@
-# Семинар 2
-## *20.09.22*
-(новые git команды - ветки)
+# Семинар 3
+## *24.09.22*
+(работа с remote repo)
 ---
 ![Git logo alt text](./assets/images/git_image.png "Git Logo")
 

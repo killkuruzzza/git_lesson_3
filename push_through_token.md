@@ -1,0 +1,1 @@
+Для пуша через токе нужно использовать команду git push https://ghp_bA2Jdo5tWsC5u7JSZjdkрH58ULs5vceK3vtX0M@github.com/AlexBulavin/git_lesson_3.git где git push https://ТОКЕН GitHub@github.com/ИМЯ GitHubAccount/ИМЯ Репозитория.git

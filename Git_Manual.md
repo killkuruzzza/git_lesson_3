@@ -58,4 +58,4 @@ Git - распределённая система управления верс�
 
 <https://www.youtube.com/watch?v=mJ-qvsxPHpY>
 
-!["Nick White"](NickWhite.jpg)
+!["Nick White"](NickWhite.png)

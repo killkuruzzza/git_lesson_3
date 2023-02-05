@@ -1,1 +1,5 @@
-# git_lesson_3
+# git_seminar_3
+09:06
+05:02
+
+* *__Vladimir_Velichko__*

@@ -3,7 +3,7 @@
 После установки необходимо представиться системе контроля версий. Это нужно сделать всего один раз, и git запомнит вас. Для этого нужно ввести в GIT 2 команды:
 
 * git config --global user.name MaryS
-* git config --global user.email salmariya@bk.ru
+* git config --global user.email 
 
 Чтобы изменить эти данные вводим git config --global --replace user.name user.replace
 

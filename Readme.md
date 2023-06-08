@@ -6,7 +6,9 @@
 
 1. At first you may visit the `download` page
    - Check it on the Git resource [direct link](https://git-scm.com/downloads).
+
 2. Next step lays in choosing correct installation build for your own operating system
+
 3. After installation was successfully you must run OS bash(terminal) to the checking if git was installed correctly
 
    - Type command for git version checking:

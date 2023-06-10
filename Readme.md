@@ -18,3 +18,15 @@
 	```
 	
 @Okay! If you see the gits' version, that's all.. Git was installed. Otherwise something was broken under installation process.
+
+### Git branching
+
+1. Write down the command
+	```
+	git branch <your new branch name>
+	```
+2. Switch your currently branch subscription to the new branch, follow by command
+	```
+	git checkout <created branch>
+	```
+	

@@ -18,3 +18,6 @@
 	```
 	
 @Okay! If you see the gits' version, that's all.. Git was installed. Otherwise something was broken under installation process.
+
+### Git merging
+

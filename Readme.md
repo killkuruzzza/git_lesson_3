@@ -5,6 +5,7 @@
 ### Installing git
 
 1. At first you may visit the `download` page
+
    - Check it on the Git resource [direct link](https://git-scm.com/downloads).
 
 2. Next step lays in choosing correct installation build for your own operating system

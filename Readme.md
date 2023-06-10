@@ -30,3 +30,9 @@
 	git checkout <created branch>
 	```
 	
+### Git merging
+
+1. Use command below
+	```
+	
+	```

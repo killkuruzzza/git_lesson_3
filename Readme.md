@@ -45,10 +45,10 @@
 	git remote add origin <url>
 	```
 
-### Fork remote branch
+### Remote branch forking
 
-For the obtaining source copy of remote branch into your repository
+To the obtaining source copy of remote branch into your repository follow directions below
 
 1. Go to <url> repository and press fork button on top left corner
-
-
+2. Open terminal and add remote origin into your repository
+3. Clone remote repository into your local copy

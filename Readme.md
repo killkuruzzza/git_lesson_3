@@ -44,3 +44,11 @@
 	```
 	git remote add origin <url>
 	```
+
+### Fork remote branch
+
+For the obtaining source copy of remote branch into your repository
+
+1. Go to <url> repository and press fork button on top left corner
+
+

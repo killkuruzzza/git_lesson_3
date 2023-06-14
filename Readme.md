@@ -36,3 +36,10 @@
 	```
 	
 	```
+
+### Add remote origin into repository
+
+1. For adding remote repository into your local repo usage
+	```
+	git remote add origin <url>
+	```

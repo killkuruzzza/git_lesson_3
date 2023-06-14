@@ -1,6 +1,6 @@
 # The git initial working process
 
-> The are description for starting workspace with git technologies
+> There are description for starting workspace with git technologies
 
 ### Installing git
 
@@ -13,9 +13,9 @@
 3. After installation was successfully you must run OS bash(terminal) to the checking if git was installed correctly
 
    - Type command for git version checking:
-	```
-	git --version
-	```
+		```
+		git --version
+		```
 	
 @Okay! If you see the gits' version, that's all.. Git was installed. Otherwise something was broken under installation process.
 

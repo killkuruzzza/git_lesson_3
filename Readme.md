@@ -17,7 +17,8 @@
 		git --version
 		```
 	
-@Okay! If you see the gits' version, that's all.. Git was installed. Otherwise something was broken under installation process.
+> Okay! If you see the gits' version, that's all.. 
+> Git was installed. Otherwise something was broken under installation process.
 
 ### Git branching
 
@@ -32,7 +33,9 @@
 	
 ### Git merging
 
-1. Use command below
+1. Use command below on main branch
+	```
+	git merge <merged branch>
 	```
 	
-	```
+

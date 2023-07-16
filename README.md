@@ -52,3 +52,4 @@
 | git init   | инициализация репозитория |`git init` |
 | git add    | добавление файла к репозиторию  |`git add README.md` |
 | git status | сосотояние репозитория |`git status` |
+fcv
